@@ -2,7 +2,7 @@
 manufacturer: Silicom
 model: Dual Port Copper Gigabit Ethernet PCI Express Bypass
 part_number: PE2G2BPI35A
-comments: '[Dual Port Copper Gigabit Ethernet PCI Express Bypass Server Adapter Intel® i350AM2 Based Data Sheet](https://www.silicom-usa.com/wp-content/uploads/2017/04/PE2G2BPI35A-1G-Bypass-Card.pdf)'
+comments: '[Dual Port Copper Gigabit Ethernet PCI Express Bypass Server Adapter Intel® i350AM2 Based Datasheet](https://www.silicom-usa.com/wp-content/uploads/2017/04/PE2G2BPI35A-1G-Bypass-Card.pdf)'
 interfaces:
   - name: pcie{module}.Port0
     type: 1000base-t
