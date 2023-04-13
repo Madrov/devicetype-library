@@ -13,7 +13,7 @@ module-bays:
     position: '1'
   - name: PCIe Slot 2
     position: '2'
-device-bays: #To confirm this week
+device-bays:
   - name: Disk 1
   - name: Disk 2
   - name: Disk 3
@@ -21,12 +21,15 @@ device-bays: #To confirm this week
 power-ports:
   - name: PSU1
     type: iec-60320-c14
-    maximum_draw: 750 #To confirm this week
+    maximum_draw: 350
   - name: PSU2
     type: iec-60320-c14
-    maximum_draw: 750 #To confirm this week
+    maximum_draw: 350
 interfaces:
-  - name: Ethernet 1
+  - name: Gig-E 1
     type: 1000base-t
-  - name: Ethernet 2
+  - name: Gig-E 2
     type: 1000base-t
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: true
