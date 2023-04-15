@@ -7,17 +7,11 @@ u_height: 1
 airflow: front-to-rear
 is_full_depth: true
 comments: '[Enterprise One Appliance, Full high-resolution network capture, analysis, and storage for IPv4 and IPv6 networks](No public Data sheet available)'
-subdevice_role: parent
 module-bays:
   - name: PCIe Slot 1
     position: '1'
   - name: PCIe Slot 2
     position: '2'
-device-bays:
-  - name: Disk 1
-  - name: Disk 2
-  - name: Disk 3
-  - name: Disk 4
 power-ports:
   - name: PSU1
     type: iec-60320-c14
