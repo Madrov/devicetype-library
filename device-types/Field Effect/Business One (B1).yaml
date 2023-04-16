@@ -1,0 +1,23 @@
+---
+manufacturer: Field Effect
+model: Business One (B1)
+slug: field-effect-b1
+part_number: B1
+u_height: 0
+airflow: passive
+is_full_depth: false
+comments: '[Business One Appliance, Full high-resolution network capture, analysis, and storage for IPv4 and IPv6 networks](No public Data sheet available)'
+module-bays:
+  - name: PCIe Slot 1
+    position: '1'
+  - name: PCIe Slot 2
+    position: '2'
+interfaces:
+  - name: Ehernet 1 (Green)
+    type: 1000base-t
+  - name: Ethernet 2 (Red)
+    type: 1000base-t
+power-ports:
+  - name: PSU
+    type: dc-terminal
+    maximum_draw: 130

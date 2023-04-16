@@ -1,0 +1,14 @@
+---
+manufacturer: Silicom
+model: Quad Port Copper Gigabit Ethernet PCI Express Bypass
+part_number: PE2G4BPI35LA
+comments: '[Quad Port Copper Gigabit Ethernet PCI Express Bypass Server Adapter Intel® i350AM4 Based Datasheet](https://www.silicom-usa.com/wp-content/uploads/2018/07/PE2G4BPI35LA-1G-Bypass-Card.pdf)'
+interfaces:
+  - name: pcie{module}.Port0
+    type: 1000base-t
+  - name: pcie{module}.Port1
+    type: 1000base-t
+  - name: pcie{module}.Port2
+    type: 1000base-t
+  - name: pcie{module}.Port3
+    type: 1000base-t
