@@ -1,0 +1,19 @@
+---
+manufacturer: HPE
+model: StoreEver MSL2024 Tape Library
+slug: hpe-storeever-msl2024
+u_height: 2
+is_full_depth: true
+comments: '[HPE StoreEver MSL2024 Tape Library Data Sheet](https://www.hpe.com/psnow/doc/PSN3663410USEN.pdf)'
+module-bays:
+  - name: Drive 1
+    position: '1'
+  - name: Drive 2
+    position: '2'
+interfaces:
+  - name: management
+    type: 1000base-t
+    mgmt_only: true
+power-ports:
+  - name: PSU
+    type: iec-60320-c14
