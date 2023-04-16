@@ -1,0 +1,26 @@
+---
+manufacturer: Lenovo
+model: Lenovo ThinkSystem DE2000H (LFF)
+slug: lenovo-de2000h-7y71
+part_number: 7Y71
+u_height: 2
+is_full_depth: true
+weight: 28.78
+weight_unit: kg
+comments: '[Lenovo ThinkSystem DE2000H 2U12 LFF](https://lenovopress.lenovo.com/lp0881.pdf)'
+console-ports:
+  - name: Serial port 1
+    type: rj-45
+  - name: Serial port 2
+    type: usb-micro-b
+module-bays:
+  - name: Controller A
+    position: A
+  - name: Controller B
+    position: B
+  - name: PSU1
+    label: Power/fan canister 1
+    position: '1'
+  - name: PSU2
+    label: Power/fan canister 2
+    position: '2'
