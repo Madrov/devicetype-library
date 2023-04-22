@@ -2,7 +2,7 @@
 manufacturer: Cisco
 model: EHWIC-D-8ESG
 part_number: EHWIC-D-8ESG
-comments: '8 Port GE Non-POE EHWIC Switch'
+comments: 8 Port GE Non-POE EHWIC Switch
 interfaces:
   - name: GigabitEthernet0/{module}/0
     type: 1000base-t
