@@ -1,0 +1,12 @@
+---
+manufacturer: HPE
+model: C0H27A
+part_number: 706824-001
+comments: HPE StoreEver MSL LTO-6 Ultrium 6250 SAS Drive
+interfaces:
+  - name: '{module} Port A'
+    type: other
+  - name: '{module} Port B'
+    type: other
+  - name: '{module} MGMT'
+    type: 1000base-t

@@ -1,0 +1,8 @@
+---
+manufacturer: HPE
+model: AK383A
+part_number: 467729-001
+comments: HPE MSL LTO-4 Ultrium 1760 SAS Drive
+interfaces:
+  - name: '{module} Port A'
+    type: other
