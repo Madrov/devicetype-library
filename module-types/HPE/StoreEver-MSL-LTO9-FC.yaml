@@ -1,8 +1,8 @@
 ---
 manufacturer: HPE
-model: C0H27A
-part_number: 706824-001
-comments: HPE StoreEver MSL LTO-6 Ultrium 6250 SAS Drive Upgrade Kit
+model: R6Q74A
+part_number: #########
+comments: HPE StoreEver MSL LTO-9 Ultrium 45000 FibreChannel Drive Upgrade Kit
 interfaces:
   - name: '{module} Port A'
     type: other

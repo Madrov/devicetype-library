@@ -7,7 +7,7 @@ is_full_depth: true
 airflow: front-to-rear
 weight: 20
 weight_unit: kg
-comments: '[HPE StoreEver Tape Libraries User and Service Guide](https://support.hpe.com/hpesc/public/docDisplay?docId=c04006690en_us&docLocale=en_US&page=GUID-D7147C7F-2016-0901-0A7A-0000000006E0.html)'
+comments: '[HPE StoreEver Tape Libraries User and Service Guide](https://support.hpe.com/hpesc/public/docDisplay?docId=c04006690en_us&page=index.html)'
 module-bays:
   - name: Drive 1
     position: Drive 1
