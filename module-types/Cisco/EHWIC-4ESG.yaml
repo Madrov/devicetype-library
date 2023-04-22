@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: EHWIC-4ESG
+part_number: EHWIC-4ESG
+comments: '4 Port GE Non-POE EHWIC Switch'
+interfaces:
+  - name: GigabitEthernet0/{module}/0
+    type: 1000base-t
+  - name: GigabitEthernet0/{module}/1
+    type: 1000base-t
+  - name: GigabitEthernet0/{module}/2
+    type: 1000base-t
+  - name: GigabitEthernet0/{module}/3
+    type: 1000base-t

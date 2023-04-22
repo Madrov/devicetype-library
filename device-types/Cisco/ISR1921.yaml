@@ -4,11 +4,16 @@ model: ISR1921
 part_number: ISR1921/K9
 slug: cisco-isr1921
 u_height: 1
-is_full_depth: true
+is_full_depth: false
+module-bays:
+  - name: SubSlot 0
+    position: '0'
+  - name: SubSlot 1
+    position: '1'
 interfaces:
-  - name: GigabitEthernet0/0/0
+  - name: GigabitEthernet0/0
     type: 1000base-t
-  - name: GigabitEthernet0/0/1
+  - name: GigabitEthernet0/1
     type: 1000base-t
 console-ports:
   - name: con 0
